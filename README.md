@@ -101,10 +101,24 @@ A key focus of this project was transforming complex datasets into clear and eng
 
 ⭐ This project demonstrates my ability to transform complex datasets into interactive, visually engaging dashboards that communicate insights effectively and support data-driven decision-making.
 
-## My Dashboards
+---
 
-[Link to GB Employment Dashboard](https://public.tableau.com/views/GBEmploymentData_17900033303860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Link to Global Health Dashboard](https://public.tableau.com/views/GlobalHealthDashboard_17900837368200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## 📸 Employment Dashboard  
 
-[Link to Spotify Trends Dashboard](https://public.tableau.com/views/SpotifyTrendsDashboard_17900943385090/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Link to GB Employment Dashboard](https://public.tableau.com/views/GBEmploymentData_17900033303860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1233740-743a-4b03-a44f-5d6ce94df966" />
+
+
+## 📸 Health Dashboard  
+[Link to Global Health Dashboard](https://public.tableau.com/views/GlobalHealthDashboard_17900837368200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c36684ed-574e-4aa6-996a-c39da9f407f0" />
+
+
+## 📸 Spotify Dashboard  
+[Link to Spotify Trends Dashboard](https://public.tableau.com/views/SpotifyTrendsDashboard_17900943385090/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ffc63cf-3a0a-41a5-9fc7-96dde9302192" />
+
