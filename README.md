@@ -1,4 +1,4 @@
-# Tableau Data Visualisation Project | Data Technician Bootcamp
+# Tableau Data Storytelling & Visualisation
 
 ## 🚀 Overview
 
