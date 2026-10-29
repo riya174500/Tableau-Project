@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This project showcases the Tableau skills developed during my **Data Technician Bootcamp** through a range of hands-on data visualisation and dashboarding exercises. Working with retail, sales, customer, geographic, and business datasets, I transformed raw data into interactive dashboards that support data exploration and decision-making.
+This repository showcases my Tableau skills through a range of hands-on data visualisation and dashboarding exercises. Working with retail, sales, customer, geographic, and business datasets, I transformed raw data into interactive dashboards that support data exploration and decision-making.
 
 The project focused on creating impactful visual stories using interactive dashboards, calculated fields, filters, and multiple chart types to uncover trends, patterns, and key insights.
 
